@@ -1,0 +1,30 @@
+- title: Real-time Radiation Dose Plan Optimization Using Deep Learning
+  description: |
+    **Overview:** The overall aim of the project is to develop deep learning methods that can automate and speed up radiotherapy planning and to document the clinical value of such approaches. The project will follow an approach of quantifying and optimising plan quality in training of the deep learning model with direct prediction of machine delivery parameters using orders of magnitude more patients than prior work in this field. We will investigate if this will lead to improvements over existing clinical procedures and state of the art methods. Artificial intelligence methods need to be tested through prospective evaluations in a real-life clinical scenario. The project is therefore built through both technical aims related to developing the artificial intelligence needed to generate radiotherapy treatment plans and the clinical implementation and testing of such methods in the oncology ward.
+
+    **Key Objectives:**
+    - Developing deep learning models to predict radiation dose distribution
+    - Predicting optimal machine delivery parameters
+    - Quantifying patient-level gains from using these methods.
+
+    **Background:** The radiation therapy planning process is time-consuming and subjective, requiring optimization of many machine parameters. Current methods vary in quality based on the planner's skill, and improvements are needed for more consistent and efficient planning.
+
+    **Approach:** Data from patients having been treated at Rigshospitalet will be used to train deep learning models. These models will be evaluated on their ability to reproduce existing dose distributions and predict optimal machine parameters, with clinical evaluation focusing on specific types of cancer treatments.
+
+    **Funding:** The project has been funded by the Independent Research Fund Denmark
+
+- title: Self-supervised Artificial Intelligence for Large Scale Analysis of Longitudinal Images in Oncology
+  description: |
+    **Overview:** The project focuses on utilizing self-supervised artificial intelligence (AI) to enhance the analysis of longitudinal images in oncology. It has two main computer science aims: investigating large-scale behaviors of self-supervision techniques in image analysis and developing these techniques specifically for longitudinal images. In radiation oncology, the project aims to adapt these AI models to predict tumor recurrence in lung cancer patients and assess the risk of late cardiotoxicity from radiotherapy. The hypothesis is that self-supervision can improve prediction accuracy using large amounts of unlabeled data, providing early clinical risk estimates to adapt treatments accordingly. The project explores state-of-the-art AI models, including transformers and self-supervised learning, to improve the robustness and scalability of medical image analysis, with applications extending beyond radiotherapy to other areas in biomedicine.
+
+    **Key Objectives:**
+    - Investigate large-scale behavior of state-of-the-art self-supervision techniques in medical image analysis.
+    - Develop self-supervision techniques for longitudinal medical images.
+    - Adapt the methods to predict tumor recurrence in lung cancer patients during treatment.
+    - Demonstrate that pre-trained networks can predict late cardiotoxicity risk during treatment.
+
+    **Background:** Machine learning and particularly deep learning has the potential to revolutionize medical imaging analysis. Traditional deep learning, so-called supervised methods, require large amounts of labeled data, which is often scarce in medical imaging. Self-supervised techniques can leverage abundant unlabeled data, especially from radiotherapy, where multi-modal imaging is common.
+
+    **Approach:** The project will use planning and treatment images from Rigshospitalet and Herlev Hospital, involving large datasets. Various self-supervision techniques will be tested for their effectiveness in improving model generalization and prediction accuracy for treatment outcomes.
+
+    **Funding:** The project has been funded by the Independent Research Fund Denmark
