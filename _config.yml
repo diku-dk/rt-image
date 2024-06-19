@@ -16,8 +16,8 @@
 title: RT @ IMAGE
 email: phup@di.ku.dk
 description: "Radiotherapy Imaging and Machine Learning Group"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "jenspete.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/rt-image" # the subpath of your site, e.g. /blog
+url: "https://diku-dk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jenspete
 
 # Build settings
