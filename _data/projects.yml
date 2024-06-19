@@ -12,6 +12,8 @@
     **Approach:** Data from patients having been treated at Rigshospitalet will be used to train deep learning models. These models will be evaluated on their ability to reproduce existing dose distributions and predict optimal machine parameters, with clinical evaluation focusing on specific types of cancer treatments.
 
     **Funding:** The project has been funded by the Independent Research Fund Denmark
+  image: /assets/images/radiation_therapy.jpg
+  image_license: "Illustrasjonsfoto, stråleterapi. Foto: Jan Fredrik Frantzen, kommunikasjonssenteret på UNN. <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_blank'>CC BY-ND 2.0</a>"
 
 - title: Self-supervised Artificial Intelligence for Large Scale Analysis of Longitudinal Images in Oncology
   description: |
@@ -28,3 +30,4 @@
     **Approach:** The project will use planning and treatment images from Rigshospitalet and Herlev Hospital, involving large datasets. Various self-supervision techniques will be tested for their effectiveness in improving model generalization and prediction accuracy for treatment outcomes.
 
     **Funding:** The project has been funded by the Independent Research Fund Denmark
+  image: /assets/images/self_supervised.png
